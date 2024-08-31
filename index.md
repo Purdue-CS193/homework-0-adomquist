@@ -1,3 +1,4 @@
+# **\<Adom Quist\>'s First CS193 Homework**
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -17,6 +18,12 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+
+My Favorite Things About CS 193!
+- taught by students who understand our struggle
+- ice breakers
+- class has chill vibes
+- once a week
 
 1. Numbered
 2. List
